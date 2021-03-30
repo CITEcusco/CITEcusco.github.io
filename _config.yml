@@ -26,6 +26,7 @@ width: normal
 projects: false
 about: true
 blog: true
+sinapsis: false
 read-time: true
 show-tags: true
 related: true

@@ -1,15 +1,21 @@
 ---
 title: About
 layout: page
-lang: en
+lang: es
 ref: about
 ---
 ![jefferson](https://citecusco.github.io/citecusco.github.io/assets/images/profile.jpg)
 
 
+<h2>Proyecto de Inteligencia de Negocios para Toma Acertada de Desiciones en el CITE Textil Camélidos Cusco</h2>
 
-<h2>Sobre el Proyecto de Inteligencia de Negocios para la toma Acertada de Desiciones</h2>
+<h3>Objetivo</h3>
+Desarrollar una estrategia de Inteligencia de Negocios o BI (Bussiness Intelligence en inglés) para analizar mediante Analítica de Datos la cadena de valor textil camélidos en la región de Cusco, los servicios dados por el CITE, la competitividad del personal y otros. La visualización de los datos elaboradas son con el objetivo de tomar decisiones acertadas en base a datos. 
 
+<h3>Problema</h3>
+Los datos representan un valor potencial en el mercado para abordar a los clientes (las Unidades Productivas asociadas al CITE Textil Camélidos Cusco), mercado, servicios y mejora continua. No tener esta información para la gestión y modernización puede evitar que tenga menor impacto y alcance a las Unidades Productivas. Sin datos se pierde objetividad al asistir a estas unidades perdiendo eficacia y recursos. 
+
+<div class="breaker"></div>
 
 <h2>Visualización de Datos</h2>
 

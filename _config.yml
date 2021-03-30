@@ -3,8 +3,8 @@ bio: El CITE textil camélidos Cusco es un brazo ejecutor del ITP - Instituto Te
 description: El CITE textil camélidos Cusco es un brazo ejecutor del ITP - Instituto Tecnológico de la Producción del Ministerio de la Producción - PRODUCE.
 external-image: true
 picture: assets/images/profile.jpg
-resume: true
-resume-external: true
+resume: false
+resume-external: false
 resume-url: "https://cutt.ly/VeixJRo"
 resume-pt-url: "https://cutt.ly/VeixJRo"
 lattes-url: null
@@ -24,7 +24,7 @@ youtube: UCCSc8Zj0TD3qC2dMTQQRMqw
 
 width: normal
 projects: false
-about: false
+about: true
 blog: true
 read-time: true
 show-tags: true

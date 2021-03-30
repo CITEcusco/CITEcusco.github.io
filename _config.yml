@@ -1,6 +1,6 @@
-name: Jefferson Quispe Pinares
-bio: Be more to serve better
-description: candidate Master Computer Science
+name: CITE Textil Camélidos Cusco
+bio: Cadena de Valor Textil Camélidos
+description: El CITE textil camélidos Cusco es un brazo ejecutor del ITP - Instituto Tecnológico de la Producción del Ministerio de la Producción - PRODUCE.
 external-image: true
 picture: assets/images/profile.jpg
 resume: true
@@ -19,20 +19,10 @@ disqus:
     - blog
     - project
 facebook: 1343750403
-twitter: jefferson_qp
 instagram: jeffqp
 linkedin: jefferson-quispe-pinares
 youtube: channel/UCN8zMoUDtRrEI9ri--yu9eQ
-github: jeffersonquispe
-medium: jeffersonquispep
-email: jeffersonquispep@gmail.com
-flickr: photos/148613786@N07
-authors:
-  jeffersonquispe:
-    name: Jefferson Quispe Pinares
-    bio: Be more to serve better
-    external-image: true
-    picture: assets/images/profile.jpg
+
 width: normal
 projects: true
 about: true

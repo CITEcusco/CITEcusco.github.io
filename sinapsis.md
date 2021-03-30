@@ -5,4 +5,3 @@ lang: en
 ref: sinapsis
 ---
 
-Pruebitas gogog

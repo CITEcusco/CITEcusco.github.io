@@ -23,10 +23,9 @@ linkedin: cite-textil-camélidos-cusco-355339200
 youtube: UCCSc8Zj0TD3qC2dMTQQRMqw
 
 width: normal
-projects: true
-about: true
+projects: false
+about: false
 blog: true
-sinapsis: true
 read-time: true
 show-tags: true
 related: true

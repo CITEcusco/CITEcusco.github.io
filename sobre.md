@@ -5,7 +5,7 @@ lang: es
 ref: about
 ---
 
-![citecusco](https://citecusco.github.io/citecusco.github.io/assets/images/profile.jpg)
+![citecusco](https://i.imgur.com/LHvRJBE.jpg?2)
 
 
 <h2>Proyecto de Inteligencia de Negocios para Toma Acertada de Desiciones en el CITE Textil Camélidos Cusco</h2>

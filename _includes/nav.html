@@ -14,14 +14,7 @@
        
         {% endif %} {% endif %} 
         {% if site.fuentes == true %} {% if page.ref != "fuentes" %}
-        <li class="item">
-            {% if page.lang == "es" %}
-            <a class="link" href="{{ site.url }}/Fuentes">Fuentes</a>
-            {% endif %}
-            {% if page.lang == "en" %}
-            <a class="link" href="{{ site.url }}/Fuentes">Fuentes</a>
-            {% endif %}
-        </li>
+      
         {% endif %} {% endif %} 
         {% if site.about == true %} {% if page.ref != "about" %}
         <li class="item">
@@ -35,10 +28,10 @@
 
          <li class="item">
             {% if page.lang == "es" %}
-            <a class="link" href="{{ site.url }}/blog">Lista de Dashboard</a>
+            <a class="link" href="{{ site.url }}/blog">Lista de Reportes</a>
             {% endif %}
             {% if page.lang == "en" %}
-            <a class="link" href="{{ site.url }}/blog">Lista de Dashboard</a>
+            <a class="link" href="{{ site.url }}/blog">Lista de Reportes</a>
             {% endif %}
         </li>
 
